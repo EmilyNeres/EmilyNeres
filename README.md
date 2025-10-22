@@ -1,10 +1,13 @@
-# Emily Neres
+#👩‍💻 Emily Neres
+
+**`Desenvolvedora Fontend`**
 
 ## Sobre
 
 Olá
 
-Meu nome é Emily Neres, tenho 24 anos e atualmente estou no 2° período do curso **Análise e Desenvolvimento de Sistemas**,na faculdade Anhanguera. Cai meio de paraquedas no mundo da programação, atraves de uma oportunidade que apareceu na minha vida, mas posso dizer que me encantei pela área. estudar programção não tem sido fácil, mas a liberdade criativa e as desafios que ela impõe, são o que me motivam a não desistir.
+Meu nome é Emily Neres, tenho 26 anos, sou natural do Rio de Janeiro e atualmente sou formada em **Análise e Desenvolvimento de Sistemas**
+
 
 ## Interesse / Aprendendo
 
